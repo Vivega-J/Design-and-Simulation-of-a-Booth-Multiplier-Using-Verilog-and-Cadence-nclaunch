@@ -164,15 +164,13 @@ endmodule
 ![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
 
 ## Nclaunch Work Library Window
+![Screenshot 2025-05-24 110900](https://github.com/user-attachments/assets/0920c79f-2e52-46bb-8a60-a39053b0edb3)
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+![Screenshot 2025-05-24 110817](https://github.com/user-attachments/assets/2cd95512-796a-4e9a-b0a2-38475f10cbb1)
 
-
-## Results
 Successfully designed and simulated a Booth Multiplier in Verilog.
 Performed signed multiplication efficiently.
 Verified correctness using Cadence nclaunch.
